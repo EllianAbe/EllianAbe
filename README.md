@@ -10,10 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>
-📚 I'm currently focusing on explore Popular Design Patterns and catalog then <br>
+<p align="left">✨ Creating <s>bugs</s> solutions since 2018<br>
+📚 I'm currently focusing on exploring popular design patterns and cataloging them<br>
 🎯 Goals: impact the global tech audience with solutions, patterns, and technologies<br>
-🎲 Fun fact: ...</p>
+🔭 I'm currently working on <b>SyntroPy</b>, a tech lead guide that provides materials to help explain complex concepts to their teams, and <b>qpy</b>, a task queue system for automations<br>
+🎲 Fun fact: I chose Computer Science by chance, but soon discovered a deep passion for technology and programming. Every class and challenge only increases my fascination!<p>
 
 ###
 
@@ -31,6 +32,13 @@
   <img src="https://cdn.worldvectorlogo.com/logos/baan.svg" height="40" alt="baan logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" height="40" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://docs.streamlit.io/logo.svg" height="40" alt="Streamlit logo" />
+  <img width="12" />
+   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg " height="40" alt="Visual Studio Code" />
+  <img width="12" />
+  <img width="12" />
+   <img src="https://cdn.worldvectorlogo.com/logos/visual-basic.svg" height="40" alt="Visual Studio Code" />
   <img width="12" />
 </div>
 
