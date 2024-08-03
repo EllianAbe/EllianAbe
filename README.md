@@ -37,8 +37,10 @@
   <img width="12" />
    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="40" alt="Visual Studio Code" />
   <img width="12" />
+   <img src="https://cdn.worldvectorlogo.com/logos/visual-basic.svg" height="40" alt="Visual Basic" />
   <img width="12" />
-   <img src="https://cdn.worldvectorlogo.com/logos/visual-basic.svg" height="40" alt="Visual Studio Code" />
+  <img src="
+    https://cdn.worldvectorlogo.com/logos/selenium-1.svg" height="40" alt="Selenium" />
   <img width="12" />
 </div>
 
