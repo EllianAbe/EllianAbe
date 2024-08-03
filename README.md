@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**EllianAbe/EllianAbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Ellian and I'm a Automation Tech Lead, from Brazil</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>
+📚 I'm currently focusing on explore Popular Design Patterns and catalog then <br>
+🎯 Goals: impact the global tech audience with solutions, patterns, and technologies<br>
+🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" alt="C Sharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/uipath-2.svg" height="40" alt="UiPath logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/baan.svg" height="40" alt="baan logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" height="40" alt="jenkins logo" />
+  <img width="12" />
+</div>
+
+###
