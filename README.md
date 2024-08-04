@@ -33,17 +33,31 @@ I am a dedicated professional with a strong focus on logic, code quality, and be
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/uipath-2.svg" height="40" alt="UiPath logo"  />
   <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" height="40" alt="Kotlin logo" />
+  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/baan.svg" height="40" alt="baan logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" height="40" alt="jenkins logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-basic.svg" height="40" alt="Visual Basic logo" />
   <img width="12" />
   <img src="https://docs.streamlit.io/logo.svg" height="40" alt="Streamlit logo" />
   <img width="12" />
-   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="40" alt="Visual Studio Code" />
+  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-   <img src="https://cdn.worldvectorlogo.com/logos/visual-basic.svg" height="40" alt="Visual Basic" />
+  <img src="https://cdn.worldvectorlogo.com/logos/selenium-1.svg" height="40" alt="Selenium logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/selenium-1.svg" height="40" alt="Selenium" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" height="40" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="40" alt="MongoDB logo" />
+  <img width="12" />  
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="40" alt="Visual Studio Code logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" height="40" alt="Intellij Idea logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" height="40" alt="Visual Studio logo" />
   <img width="12" />
 </div>
 
