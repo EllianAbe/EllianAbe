@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Ellian and I'm a Automation Tech Lead, from Brazil</p>
+Analyst, developer, computer scientist, tech-lead, technology enthusiast, mathematics lover, and innovation aficionado. My mission is to create technologies that impact individuals and the environment they are part of, enhancing their experiences, leveraging their capabilities, and fostering the development of their human skills and individualities.<br><br>
 I am a dedicated professional with a strong focus on logic, code quality, and best practices. My passion for technology and computer science drives me to continuously improve and excel in my work. I believe in writing clean, efficient, and maintainable code, ensuring that every project I work on meets the highest standards. With a keen eye for detail and a commitment to excellence, I strive to deliver outstanding results in all my endeavors.<br>
 
 <p>I must confess that I am deeply in love with Python and its elegant simplicity.</p>
