@@ -48,3 +48,19 @@ I am a dedicated professional with a strong focus on logic, code quality, and be
 </div>
 
 ###
+
+## Important Notice
+
+⚠️ **BEWARE OF PYTHONISTA** ⚠️
+
+![Still deciding what funny image to put here](https://still_deciding.png)
+
+**Attention:** This profile may contain a fierce Pythonista. Known for:
+
+- Automating all your repetitive tasks 🛠️
+- Refactoring your spaghetti code 🍝
+- Fixing bugs before you even notice they exist 🐞
+
+Use with caution and remember: a happy Pythonista means clean and efficient code! 😄
+
+---
