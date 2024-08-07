@@ -17,7 +17,7 @@ I am a dedicated professional with a strong focus on logic, code quality, and be
 <p align="left">✨ Creating <s>bugs</s> solutions since 2018<br>
 📚 I'm currently focusing on exploring popular design patterns and cataloging them<br>
 🎯 Goals: impact the global tech audience with solutions, patterns, and technologies<br>
-🔭 I'm currently working on <b>SyntroPy</b>, a tech lead guide that provides materials to help explain complex concepts to their teams, and <b>qpy</b>, a task queue system for automations<br>
+🔭 I'm currently working on <b>SyntroPy</b>, a tech lead guide that provides materials to help explain complex concepts to their teams, and <b>qpy</b>, a task queue system for automations that provides an abstract interface for implementations, allowing an agnostic data source architecture.<br>
 🎲 Fun fact: I chose Computer Science by chance, but soon discovered a deep passion for technology and programming. Every class and challenge only increases my fascination!<p>
 
 ###
