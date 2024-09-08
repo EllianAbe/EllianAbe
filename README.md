@@ -67,7 +67,7 @@ I am a dedicated professional with a strong focus on logic, code quality, and be
 
 ⚠️ **BEWARE OF PYTHONISTA** ⚠️
 
-![Still deciding what funny image to put here](https://still_deciding.png)
+![Still deciding what funny image to put here](https://upload.wikimedia.org/wikipedia/commons/4/45/An_athlete_wrestling_with_a_python%2C_white_marble_sculpture_by_Frederic%2C_Lord_Leighton%2C_1888-1891%2C_private_collection.jpg)
 
 **Attention:** This profile may contain a fierce Pythonista. Known for:
 
