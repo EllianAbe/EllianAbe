@@ -29,6 +29,10 @@ I am a dedicated professional with a strong focus on logic, code quality, and be
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" height="40" alt="Vue logo"  />
+  <img width="12" />
+  
+  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" alt="C Sharp logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/uipath-2.svg" height="40" alt="UiPath logo"  />
